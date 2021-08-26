@@ -1,0 +1,7 @@
+User-agent: Googlebot-news
+Allow: /
+
+User-agent: Googlebot
+Allow: /
+
+sitemap: https://purplecereal.com/sitemap.xml
